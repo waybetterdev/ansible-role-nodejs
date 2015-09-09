@@ -1,0 +1,4 @@
+---
+# Define a list of global packages to be installed with NPM.
+# name and optionally version
+nodejs_npm_packages: []
